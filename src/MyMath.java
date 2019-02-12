@@ -1,4 +1,4 @@
-public class MyMath {
+public class    MyMath {
 
     //Smallest of three numbers
     public static int smalletNumber (int x, int y, int z)
